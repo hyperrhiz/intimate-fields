@@ -1,4 +1,5 @@
 # intimate-fields
+Repo for "Intimate Fields" NFC kit by Helen J Burgess and Margaret Simon
 
 Box files. Original cdr files forked from Jentery Sayers' Early Wearables Kit, with conversions for ai and eps.
 

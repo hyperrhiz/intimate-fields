@@ -1,4 +1,5 @@
 # intimate-fields
+Repo for "Intimate Fields" NFC kit by Helen J Burgess and Margaret Simon
 
 Instructions for setting up both types of Twitterbot here: http://intimate.media/intimatefields/twitter.html
 
