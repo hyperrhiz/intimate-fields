@@ -1,4 +1,21 @@
 section {
 	padding-top:20px;
+	border: 1px solid black;
 }
-a, a:link, a:visited { color:maroon;}
+article {
+	padding:20px;
+	border: 1px solid blue;
+}
+a, a:link, a:visited {
+	color:maroon;
+}
+blockquote {
+	font-size:smaller;
+}
+.carousel-control.right, .carousel-control.left {
+	background-image:none;
+}
+figcaption {
+	margin-top:20px;
+	font-style: normal;
+}
