@@ -5,17 +5,25 @@ author: Intimate Fields
 subtitle: 
 description: "Intimate Fields | A Project by Helen J Burgess and Margaret Simon"
 ---
+<article>
 <h3>Twitter Implementation</h3>
+
+<section>
 <h4>A recipe to create your own posy bot</h4>
 <p>Making a Posie Bot that remixes historical posies into new ones. (Ours tweets <a href="https://twitter.com/intimatefields">@intimatefields</a>)</p>
 
 <ol>
-<li>Set up a twitter account. You’ll need a phone number to do this, so if you have an existing Twitter account attached to your phone number, make sure you go into your existing account, delete the mobile number, and log out again. You can add it back again later once your new bot is working.<br><br></li>
+<li>Set up a twitter account. You’ll need a phone number to do this, so if you have an existing Twitter account attached to your phone number, make sure you go into your existing account, delete the mobile number, and log out again. You can add it back again later once your new bot is working.</li>
 
-<li>Set up a Twitter app. Go to apps.twitter.com, sign in as your new bot account, and set up a new app. You’ll need to take note of four numbers: the <strong>Consumer Key</strong>, <strong>Consumer Secret</strong>, <strong>Access Token</strong> and <strong>Access Secret</strong> (to get these last two, clink on "create my access token" at the bottom of the page).<br><br></li> 
+<li>Set up a Twitter app. Go to apps.twitter.com, sign in as your new bot account, and set up a new app. You’ll need to take note of four numbers: the <strong>Consumer Key</strong>, <strong>Consumer Secret</strong>, <strong>Access Token</strong> and <strong>Access Secret</strong> (to get these last two, clink on "create my access token" at the bottom of the page).</li>
+</ol>
+<p>From here, you have two choices, depending on your resources. If you have access to Google Docs, you can run a bot easily using method #1. If you prefer to run the bot from your own server, choose option 2.</p>
+</section>
 
-<li>(<strong>easiest option</strong>)<br>If you have a Google Docs account, head on over to Zach Whalen’s site <a href="http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/">here</a> for instructions. He has a nice little bot script set up via Google Sheets for you to customize and publish, without need for other server arrangements.
+<section>
 
+<h4>Option 1 (easiest option)</h4>
+<p>If you have a Google Docs account, head on over to Zach Whalen’s site <a href="http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/">here</a> for instructions. He has a nice little bot script set up via Google Sheets for you to customize and publish, without need for other server arrangements.</p>
 <ol type="a">
 <li>find the sheet <a href="https://docs.google.com/spreadsheets/d/1Cbg_6pYN04XtDHpDLtxAP3ExQEBL8PYBXBQ1E5_Sq30/copy">here</a> and click on “copy” to make a copy of it to your google docs account under “sheets.”</li>
 <li>enter your app information: 
@@ -26,14 +34,18 @@ description: "Intimate Fields | A Project by Helen J Burgess and Margaret Simon"
 	<li>Consumer secret (line 26)</li>
 <li>Project key (line 32). Click on Tools > Script Editor and then File > Project Properties. You'll find your project key under "info" in the popup box.</li>
 <li>finally, scroll down to line 37, and copy the Callback URL in the red box. Switch back to your twitter app (apps.twitter.com), and enter that number into the box under "Callback URL" inside your app.</li>
-</ul>
+</ul></li>
 
 <li>Whalen’s script has several “styles” to tweet in. For Intimate Fields, we chose to use the “Markov” flavor. Markov chain generators chop up existing text, look for repeated patterns, and then recombine text according to the patterns it finds. Because posies are generic (making use of repetitive tropes and combinations of words) they’re an excellent corpus for Markov remixing. Choose “Markov” on line 43.</li>
 <li>go into the “Markov” portion of the spreadsheet and delete the Austen text there, replacing it with a posie corpus. We created one consisting of posies from <em>Loves Garland</em> and a couple of other full-text historical posie collections (along with a set of 90 phrases from Roland Barthes’ <em>A Lovers Discourse</em> and 10 phrases from Bruno Latour's <em>Aramis</em>). As a sample, you can find ours under <code>corpus.txt</code> in the Intimate Fields twitterbot repository.</li>
-<li>finally, choose how often you want it to tweet. Twitter gets *very* antsy about high-traffic twitterbots. If you’re going to leave it running for long periods of time you might want to limit tweets to every half hour. Once you’re all set to go, go up to the “bot” menu and select “send test tweet” to make sure everything’s working the way it should. Once it looks right, go back up to the bot menu and tell it to run the script. That’s it!<br><br></li></li></ol>
-</li>
+<li>finally, choose how often you want it to tweet. Twitter gets *very* antsy about high-traffic twitterbots. If you’re going to leave it running for long periods of time you might want to limit tweets to every half hour. Once you’re all set to go, go up to the “bot” menu and select “send test tweet” to make sure everything’s working the way it should. Once it looks right, go back up to the bot menu and tell it to run the script. That’s it!</li>
+</ol>
+</section>
 
-<li>(<strong>slightly more involved option, Python</strong>)<br>If you want to roll your own, you’ll need to find some good Markov scripts and a Twitter script for posting. We’ve included files for running on Python in the repository. You’ll need two Python packages, <strong>Markovify</strong> and <strong>Tweepy</strong>. You can get them both from Github or (easier) via <code>pip install</code>.
+<section>
+<h4>Choice 2 (slightly more involved option, Python)</h4>
+
+<p>If you want to roll your own, you’ll need to find some good Markov scripts and a Twitter script for posting. We’ve included files for running on Python in the repository. You’ll need two Python packages, <strong>Markovify</strong> and <strong>Tweepy</strong>. You can get them both from Github or (easier) via <code>pip install</code>.</p>
 <ol type="a">
 <li>From the Intimate Fields repository download <code>markov.py</code>, <code>corpus.txt</code>, <code>history.txt</code> and <code>keys.py</code> into the same directory.</li>
 <li>replace the <code>corpus.py</code> text with your own, if you want to add extra (or different) posies</li>
@@ -41,13 +53,10 @@ description: "Intimate Fields | A Project by Helen J Burgess and Margaret Simon"
 <li>Open up <code>markov.py</code> and replace the twitter account handle at the bottom of the script with your own.</li>
 <li>Open up Terminal, navigate into the directory with your four files, and run the bot by typing <code>python markov.py</code>. If all’s well, your bot will tweet a new posy.</li>
 <li>e) Keeping your bot running continuously will depend on your setup. If you’ve got a dedicated Raspberry Pi set up, you can just set up a cron job telling it to run the script every 30 minutes. Or, if you have shell-access hosting somewhere, you can upload the files to your host and run the cron job there. </li>
-<li>*Note* Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:</em>
-
+</ol>
+<p><em>*Note* Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:</em></p>
 	<ul><li><a href="https://gist.github.com/moonmilk/8d78032debd16f31a8a9">Python for botmakers on dreamhost</a></li>
 	<li><a href="https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning">what to do if you get the insecure platform warning</a></li>
 	<li><a href="https://urllib3.readthedocs.org/en/latest/security.html#openssl-pyopenssl">installing pyopenssl</a></li></ul>
-	</li>
-	</ol>
-	
-	</li>
-	</ol>
+</section>
+</article>
