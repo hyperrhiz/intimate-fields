@@ -29,7 +29,7 @@ include: ['.htaccess', '.htpasswd']
 
                           
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://hyperrhiz.github.io/intimate-fields
+url: https://hyperrhiz.github.io/intimate-fields
 
 #### Under the Hood Stuff #####
 
