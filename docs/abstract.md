@@ -7,7 +7,10 @@ description: "Intimate Fields: About the project"
 ---
 ### About the Project
 
->“Every secret has its little casket.”  -- Gaston Bachelard
+<figure>
+<img src="img/secret.jpg" class="img-responsive">
+<figcaption>“Every secret has its little casket.”  -- Gaston Bachelard.</figcaption>
+</figure>
 
 *Intimate Fields* is an installation work that brings together “near field” technologies from markedly different eras to argue that secrecy, absence, and distance are constituting features of felt human intimacy. Looking back to the sixteenth and seventeenth centuries, our project expands to digital technologies the concept of “the posy” and the practice of its creation and dissemination. Posies are short poems designed to be inscribed on gifted objects, most frequently rings. These bespoke accessories are meant to be worn on the body and to signify or transact amorous relations, act as memento mori, or even enable private and subversive modes of religious devotion. Posies and their objects were widely held to act as reminders of intimacy or as portals to memory. At the same time, the inscriptions themselves, particularly on courtship rings, are often generic and were collected and published in printed books for use and adaptation. By inter-animating today’s methods of near field communication and early modern wearables, this project explores how text and code technologies and the languages they carry can create, interrupt, or re-shape interpersonal connection.
 
