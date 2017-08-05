@@ -8,13 +8,13 @@ description: "Implementing Intimate Fields with an Arduino Flora or other Arduin
 ### Arduino
 
 <figure>
-<img src="img/flora.jpg" class="img-responsive">
+<img src="img/flora2.jpg" class="img-responsive">
 <figcaption>Flora board, the core of <em>Intimate Fields</em> v.1.</figcaption>
 </figure>
 
 #### When to use
 
-The "plug and play" Arduino version of Intimate Fields is designed for ease of assembly, and requires no external equipment once it's set up (apart from two power outlets). We recommend this version for classroom use or travelling exhibit where you might not have access to an external monitor, mouse  and wifi access. For a more complicated "live remix" version of Intimate Fields, check out the [Raspberry Pi](raspberrypi.html version (coming soon).
+The "plug and play" Arduino version of Intimate Fields is designed for ease of assembly, and requires no external equipment once it's set up (apart from two power outlets). We recommend this version for classroom use or travelling exhibit where you might not have access to an external monitor, mouse  and wifi access. For a more complicated "live remix" version of Intimate Fields, check out the [Raspberry Pi](raspberrypi.html) version (coming soon).
 
 #### Ingredients
 
