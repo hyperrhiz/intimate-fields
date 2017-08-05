@@ -9,7 +9,7 @@ description: "On posies and their role in sharing messages of love and fidelity"
 
 <figure>
 <img src="img/loves.jpg" class="img-responsive">
-<figcaption>Loves Garland, tagged and wrapped in silk.</figcaption>
+<figcaption>Loves Garland, tagged with NFC chips.</figcaption>
 </figure>
 
 #### On Posies
