@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Intimate Fields | A Project by Helen J Burgess and Margaret Simon"
+title: "Intimate Fields | Image Gallery"
 author: Intimate Fields
 subtitle: 
-description: "Intimate Fields | A Project by Helen J Burgess and Margaret Simon"
+description: "Images of Intimate Fields prototyping before and during ELO 2017"
 ---    
  		<link rel="stylesheet" href="assets/WallopSlider/css/simple-demo.css">
 

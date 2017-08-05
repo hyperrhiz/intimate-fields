@@ -1,14 +1,14 @@
-section {
+h4 {
 	padding-top:20px;
 }
-article {
-	padding:10px;
+h3 {
+	padding-top:10px;
 }
 a, a:link, a:visited {
 	color:maroon;
 }
 blockquote {
-	font-size:smaller;
+	font-size:small;
 }
 .carousel-control.right, .carousel-control.left {
 	background-image:none;
