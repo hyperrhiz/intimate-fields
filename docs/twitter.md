@@ -18,7 +18,6 @@ Make a Posie Bot that remixes historical posies into new ones. (Ours tweets [@in
 From here, you have two choices, depending on your resources. If you have access to Google Docs, you can run a bot easily using method #1. If you prefer to run the bot from your own server, choose method 2.
 
 ***
-
 #### Method 1 (easiest option)
 
 If you have a Google Docs account, head on over to Zach Whalen’s site [here](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) for instructions. He has a nice little bot script set up via Google Sheets for you to customize and publish, without need for other server arrangements.
@@ -54,7 +53,7 @@ e. Open up Terminal, navigate into the directory with your four files, and run t
 
 f. Keeping your bot running continuously will depend on your setup. If you’ve got a dedicated Raspberry Pi set up, you can just set up a cron job telling it to run the script every 30 minutes. Or, if you have shell-access hosting somewhere, you can upload the files to your host and run the cron job there.
 
-**Note** *Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:*
+* **Note** *Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:*
 
 - [Python for botmakers on dreamhost](https://gist.github.com/moonmilk/8d78032debd16f31a8a9)
 - [what to do if you get the insecure platform warning](https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning)
