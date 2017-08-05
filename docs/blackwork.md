@@ -7,6 +7,11 @@ description: "The roles of embroidery in the early modern period"
 ---
 ### Embroidery and Blackwork
 
+<figure>
+<img src="img/blackwork.jpg" class="img-responsive">
+<figcaption>Cross-stitched Twitter QR code in silk on linen.</figcaption>
+</figure>
+
 #### Embroidery
 
 Embroidery in the early modern period was the purview of women, and often served as a collective practice which could be undertaken in schoolhouse or in a domestic space. Book bindings of devotional texts were frequently embroidered, speaking to the relationship between the tactile and the immaterial, spiritual, and affective experiences such touching  might enable. Today’s widely available patterns for machine embroidery might also invite contemplation about replicability and individual variation in the needle arts, which resonates with the bespoke and generic aspects of the posies themselves. While women did not publish manuals for needlework in the period of Loves Garland they did routinely adapt designs.
