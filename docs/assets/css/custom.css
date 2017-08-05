@@ -16,6 +16,7 @@ blockquote {
 figcaption {
 	margin-top:20px;
 	font-style: normal;
+	font-style:italic;
 }
 
 figure {
