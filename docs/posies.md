@@ -7,6 +7,11 @@ description: "On posies and their role in sharing messages of love and fidelity"
 ---
 ### Posies and *Loves Garland*
 
+<figure>
+<img src="img/loves.jpg" class="img-responsive">
+<figcaption>Loves Garland, tagged and wrapped in silk.</figcaption>
+</figure>
+
 #### On Posies
 
 A short poem often used in the early modern era to communicate love, hidden in a letter or inscribed o a ring, the posy is both intimate and generic. The posy travels on closely held objects. On the embroidered handkerchief, tasked with absorbing the body’s affect (tears) and action (sweat, dirt). On the inner band of a ring, tight against the finger. A note in the fold of a glove. But posies, like their objects, are also common lovers’ trifles, generic enough to become sentimental tropes, usable by anyone. Posies offer often unambiguous sentiments:
