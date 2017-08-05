@@ -5,8 +5,6 @@ author: Intimate Fields
 subtitle: 
 description: "Instructions for setting up a twitterbot to tweet posies"
 ---
-`aaa`
-
 ### Twitter Implementation
 
 Make a Posie Bot that remixes historical posies into new ones. (Ours tweets [@intimatefields](https://twitter.com/intimatefields))
@@ -46,14 +44,15 @@ If you want to roll your own, you’ll need to find some good Markov scripts and
 
 a. From the Intimate Fields repository download `markov.py`, `corpus.txt`, `history.txt` and `keys.py` into the same directory.
 
-b. replace the `corpus.py` text with your own, if you want to add extra (or different) posies</li>
-<li>Open up `keys.py` and replace the blank text with your keys: Consumer Key, Consumer Secret, Access Token and Access Secret from step 2.
+b. replace the `corpus.py` text with your own, if you want to add extra (or different) posies
 
-c. Open up `markov.py` and replace the twitter account handle at the bottom of the script with your own.
+c. Open up `keys.py` and replace the blank text with your keys: Consumer Key, Consumer Secret, Access Token and Access Secret from step 2.
 
-d. Open up Terminal, navigate into the directory with your four files, and run the bot by typing `python markov.py`. If all’s well, your bot will tweet a new posy.
+d. Open up `markov.py` and replace the twitter account handle at the bottom of the script with your own.
 
-e. Keeping your bot running continuously will depend on your setup. If you’ve got a dedicated Raspberry Pi set up, you can just set up a cron job telling it to run the script every 30 minutes. Or, if you have shell-access hosting somewhere, you can upload the files to your host and run the cron job there.
+e. Open up Terminal, navigate into the directory with your four files, and run the bot by typing `python markov.py`. If all’s well, your bot will tweet a new posy.
+
+f. Keeping your bot running continuously will depend on your setup. If you’ve got a dedicated Raspberry Pi set up, you can just set up a cron job telling it to run the script every 30 minutes. Or, if you have shell-access hosting somewhere, you can upload the files to your host and run the cron job there.
 
 **Note** *Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:*
 
