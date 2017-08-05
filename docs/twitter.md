@@ -7,9 +7,11 @@ description: "Instructions for setting up a twitterbot to tweet posies"
 ---
 ### Twitter Implementation
 
-Make a Posie Bot that remixes historical posies into new ones. (Ours tweets [@intimatefields](https://twitter.com/intimatefields))
 
 <img src="img/twitter.jpg" class="img-responsive">
+
+
+Make a Posie Bot that remixes historical posies into new ones. (Ours tweets [@intimatefields](https://twitter.com/intimatefields))
 
 #### Before You Start
 

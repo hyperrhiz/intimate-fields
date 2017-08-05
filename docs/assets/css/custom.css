@@ -17,3 +17,9 @@ figcaption {
 	margin-top:20px;
 	font-style: normal;
 }
+img {
+	border: 1px solid black;
+	padding: 5px;
+	max-width:100%;
+	margin:10px;
+}
