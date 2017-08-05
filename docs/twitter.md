@@ -32,7 +32,7 @@ b. enter your app information:
     - Consumer secret (line 26)
     - Project key (line 32). Click on Tools > Script Editor and then File > Project Properties. You'll find your project key under "info" in the popup box.
     - finally, scroll down to line 37, and copy the Callback URL in the red box. Switch back to your twitter app (apps.twitter.com), and enter that number into the box under "Callback URL" inside your app.
-
+    
 c. Whalen’s script has several “styles” to tweet in. For Intimate Fields, we chose to use the “Markov” flavor. Markov chain generators chop up existing text, look for repeated patterns, and then recombine text according to the patterns it finds. Because posies are generic (making use of repetitive tropes and combinations of words) they’re an excellent corpus for Markov remixing. Choose “Markov” on line 43.
 
 d. go into the “Markov” portion of the spreadsheet and delete the Austen text there, replacing it with a posie corpus. We created one consisting of posies from *Loves Garland* and a couple of other full-text historical posie collections (along with a set of 90 phrases from Roland Barthes’ *A Lovers Discourse* and 10 phrases from Bruno Latour's *Aramis*). As a sample, you can find ours under `corpus.txt` in the Intimate Fields twitterbot repository.
@@ -55,7 +55,7 @@ e. Open up Terminal, navigate into the directory with your four files, and run t
 
 f. Keeping your bot running continuously will depend on your setup. If you’ve got a dedicated Raspberry Pi set up, you can just set up a cron job telling it to run the script every 30 minutes. Or, if you have shell-access hosting somewhere, you can upload the files to your host and run the cron job there.
 
-* **Note** *Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:*
+**Note** *Every environment is different. For Dreamhost, here are a few useful links on your way to setting up the script and running it:*
 
 - [Python for botmakers on dreamhost](https://gist.github.com/moonmilk/8d78032debd16f31a8a9)
 - [what to do if you get the insecure platform warning](https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning)
