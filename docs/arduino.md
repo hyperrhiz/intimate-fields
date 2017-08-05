@@ -14,13 +14,13 @@ description: "Implementing Intimate Fields with an Arduino Flora or other Arduin
 
 #### When to use
 
-The "plug and play" Arduino version of Intimate Fields is designed for ease of assembly, and requires no external equipment once it's set up (apart from two power outlets). We recommend this version for classroom use or travelling exhibit where you might not have access to an external monitor, mouse  and wifi access. For a more complicated "live remix" version of Intimate Fields, check out the [Raspberry Pi](raspberrypi.html) version (coming soon).
+The "plug and play" Arduino version of *Intimate Fields* is designed for ease of assembly, and requires no external equipment once it's set up (apart from two power outlets). We recommend this version for classroom use or travelling exhibit where you might not have access to an external monitor, mouse  and wifi access. For a more complicated "live remix" version of Intimate Fields, check out the [Raspberry Pi](raspberrypi.html) version (coming soon).
 
 #### Ingredients
 
 You'll want three primary electronic components:
 
-1. An Arduino board (we used a Flora for Intimate Fields, but there are many alternatives; use what you have access to).
+1. An Arduino board (we used a Flora for *Intimate Fields*, but there are many alternatives; use what you have access to).
 2. An NFC reader. For Intimate Fields we used the widely available MRC522 board. You can find these on Amazon (look for manufacturer Sunfounder) or Aliexpress.
 3. A thermal printer. We used the "tiny" version of the A2 printer available from Adafruit and Sparkfun.
 

@@ -7,6 +7,12 @@ description: "Smell as a memorial sense in Intimate Fields"
 ---
 ### “A Fair Branch of Rosemary”
 
+<figure>
+<img src="img/rosemary.jpg" class="img-responsive">
+<figcaption>Rosemary Rose: an entreaty from Loves Garland.</figcaption>
+</figure>
+
+
 #### Olfactory Elements
 
 Our handkerchief is embroidered and is accompanied by small vials of rosemary extract and rosewater, offering users the chance to experiment with some of the tactile and olfactory elements Loves Garland suggests embodied certain of its poems. Rosemary was a complicated though resonant element of the early modern sensual landscape. Its association with remembrance made it common in the performance of betrothals, marriages, and funerals. In the plague outbreaks of the early seventeenth century (the last of which, 1625, was just after the first edition of Loves Garland) rosemary was a ubiquitous plague preventative. The posy in *Loves Garland* that claims to be sent with a “fair branch of Rosemary” plays upon the beloved’s name, Rose, and the senders goal, marriage.
