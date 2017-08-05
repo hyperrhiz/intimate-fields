@@ -68,6 +68,10 @@ A popular embroidery technique in the Elizabethan era was “blackwork,” a for
 
 Bertolet, Anna Riehl. “‘Like Two Artificial Gods’: Needlework and Female Bonding in A Midsummer Night’s Dream.” In *Medieval Clothing and Textiles*, edited by Robin Netherton and Gale R. Owen-Crocker, 11:159–78. Suffolk: Boydell & Brewer Ltd, 2015.
 
+http://google.com
+
+https://google.com
+
 Mirabella, Bella. “The Contradictory Life of the Handkerchief – Early Modern Women: Lives, Texts, Objects,” September 18, 2016. https://martinevanelk.wordpress.com/2016/09/18/the-contradictory-life-of-the-handkerchief/
 
 Munroe, Jennifer. “‘In This Strang Labourinth, How Shall I Turne?’: Needlework, Gardens, and Writing in Mary Wroth’s ‘Pamphilia to Amphilanthus.’” *Tulsa Studies in Women’s Literature* 24, no. 1 (2005): 35–55.
