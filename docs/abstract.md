@@ -24,6 +24,11 @@ As a work in the Kits for Culture series, *Intimate Fields* seeks to share in so
 
 *Intimate Fields* also bears witness to Sayers’ observation that reproduction is inevitably an act of situated practice, in which the embodied act of prototyping necessarily changes the act of interpretation. The specific instance of Intimate Fields built for exhibit at the Conference festival here betrays our own particular passions, sourcing materials that speak to us in specific ways (for Maggie, the magic of finding specific letter-folding techniques and reproducing them in specific papers; for Helen, the snagging of raw silk fiber on skin, the twirl of the spindle’s whorl). Here, we offer two boxes: one that is “executed,” complete, and imbued with our own bodily labor and affects, and a second one that is a schematic, a range of possibilities, a kind of historical narrative recipe for reconstructing secrets. In this way, Intimate Fields is a “kit for e-Literature”: a kit for reconstructing potential texts that include both material and electronic, hard and soft elements.
 
+<figure>
+<img src="img/printer.jpg" class="img-responsive">
+<figcaption>Printer, near field reader module and steel/ceramic “smart” rings.</figcaption>
+</figure>
+
 #### Harboring Secrets
 
 In *The Poetics of Space*, Gaston Bachelard observes that
@@ -32,7 +37,7 @@ In *The Poetics of Space*, Gaston Bachelard observes that
 
 Turning specifically to “small boxes, such as chests and caskets,” he notes that “These complex pieces that a craftsman creates are very evident witnesses of the need for secrecy, of an intuitive sense of hiding places.” Intimate Fields uses the coincidences and asynchronies of early modern and contemporary communication technologies to open considerations of secrecy, intimacy, and the felt dynamics of space. Playing on the relationship between the early practice of inscribing short poems (posies) on gifted (and often wearable) objects and today’s near-field technologies, the project aims to initiate affective experiences in the ways that text technologies shape intimate environments. Its drawers and compartments concealing a small thermal printer, electronic components, intricately folded letters bound with knotted silks, a set of ceramic and steel “smart rings” embedded with NFC chips, embroidered handkerchiefs, and a slim volume of anonymous seventeenth-century love poems entitled *Loves Garland*, the box confronts viewer/makers with how intimacy inheres (or doesn’t) in communicative objects. The kit incites different performances of Bachelard’s claim for the connection between feelings of intimacy and their physical manifestions. Our installation is designed to be multi-sensory and to experiment with how a variety of small objects, some wearable, communicate across a spectrum of intimacy and distance, past and present, permanent and ephemeral, hidden and visible, linear and recursive.
 
-#### Openings and Closings: Intimate Fields as Material e-Lit
+#### Openings and Closings: *Intimate Fields* as Material e-Lit
 
 Approached as a work of electronic literature, *Intimate Fields* is deeply embedded in both the physicality of its multiple media and the ephemerality of its flickering codes. As such, it is satisfyingly subject to many of the joys we take in engaging with a work of electronic literature. Just as when we click on a launch screen, unboxing *Intimate Fields* transforms it from a single object (a box) into something else: a sudden cornucopia of sensory, tactile and visual treats. The act calls to mind Bachelard’s caskets:
 
@@ -52,7 +57,7 @@ In computing, Scott Dexter notes the ambivalence we have toward that act of unco
 
 >“mutual constitutions of humans and artifacts do not occur in some single time and place, nor do they create fixed human/artifact relations. Rather, artifacts are produced through highly specialized ‘labours of division’… that involve continuous work across particular occasions and multiple sites of use.”
 
-Indeed, the pleasure of working with a box/book like Intimate Fields is two-fold: as a finished object, it caters to our love of the artefact, the play of unpacking and revealing, the insight into early modern literature. It is, fundamentally, an act of deep and engaged reading. But downloading, reconfiguring and building one’s own *Intimate Fields* box presses a different set of pleasurable buttons as well, familiar to us as writers working with electronic literature: the sense that there is a “taking apart and putting together” not just of ideas and words but materials, assets, objects, actions. Intimate Fields provides a playground within which to explore ideas of history, mediation, materiality, technology, encoding and decoding, and remixing – surely, the fertile and experimental playground we inhabit as readers and practitioners of electronic literature.
+Indeed, the pleasure of working with a box/book like *Intimate Fields* is two-fold: as a finished object, it caters to our love of the artefact, the play of unpacking and revealing, the insight into early modern literature. It is, fundamentally, an act of deep and engaged reading. But downloading, reconfiguring and building one’s own *Intimate Fields* box presses a different set of pleasurable buttons as well, familiar to us as writers working with electronic literature: the sense that there is a “taking apart and putting together” not just of ideas and words but materials, assets, objects, actions. *Intimate Fields* provides a playground within which to explore ideas of history, mediation, materiality, technology, encoding and decoding, and remixing – surely, the fertile and experimental playground we inhabit as readers and practitioners of electronic literature.
 
 ***
 
@@ -62,8 +67,8 @@ Bachelard, Gaston (1958). *The Poetics of Space*. 1994. Boston, MA: Beacon Press
 
 Dexter, Scott (2012). “The Esthetics of Hidden Things.” Berry, D. ed. *Understanding Digital Humanities*, 127-144. London, GB: Palgrave Macmillan, 2012.
 
-Sayers, Jentery (2015). “Kits for Cultural History, or Fluxkits for Scholarly Communication.” *Hyperrhiz: New Media Cultures* 13. doi: https://doi.org/10.20415/hyp/013.w02
+Sayers, Jentery (2015). “Kits for Cultural History, or Fluxkits for Scholarly Communication.” *Hyperrhiz: New Media Cultures* 13. doi: <https://doi.org/10.20415/hyp/013.w02>
 
 Stewart, Susan (1993). *On Longing: Narrative of the Miniature, the Gigantic, the Souvenir, the Collection*. Durham: Duke UP.
 
-Suchman, Lucy (1999). “Human/Machine Reconsidered” (draft). Published by the Department of Sociology, Lancaster University. http://www.lancaster.ac.uk/sociology/soc040ls.html.
+Suchman, Lucy (1999). “Human/Machine Reconsidered” (draft). Published by the Department of Sociology, Lancaster University. <http://www.lancaster.ac.uk/sociology/soc040ls.html>.
