@@ -10,7 +10,7 @@ description: "Instructions for setting up a twitterbot to tweet posies"
 
 <figure>
 <img src="img/twitter.jpg" class="img-responsive">
-<figcaption>Make a Posie Bot that remixes historical posies into new ones. Ours tweets <a href="https://twitter.com/intimatefields">@intimatefields</a></figcaption>
+<figcaption>Make a Posie Bot that remixes historical posies into new ones. Ours tweets <a href="https://twitter.com/intimatefields">@intimatefields</a>.</figcaption>
 </figure>
 
 #### Before You Start
