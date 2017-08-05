@@ -9,6 +9,8 @@ description: "Instructions for setting up a twitterbot to tweet posies"
 
 Make a Posie Bot that remixes historical posies into new ones. (Ours tweets [@intimatefields](https://twitter.com/intimatefields))
 
+<img src="img/twitter.jpg" class="img-responsive">
+
 #### Before You Start
 
 1. Set up a twitter account. You’ll need a phone number to do this, so if you have an existing Twitter account attached to your phone number, make sure you go into your existing account, delete the mobile number, and log out again. You can add it back again later once your new bot is working.
