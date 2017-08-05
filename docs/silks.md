@@ -7,6 +7,11 @@ description: "The role of silks, knots and folds in posy sharing"
 ---
 ### Silks and Letter-Locking
 
+<figure>
+<img src="img/letter.jpg" class="img-responsive">
+<figcaption>A letter tagged and wrapped in plied silk thread.</figcaption>
+</figure>
+
 The fiber and cloth elements of *Intimate Fields* engage early modern communicative practices with the networked and interwoven implications of the textile’s etymology (texere= to weave). Silk bands were a notable, though not extremely common, affective marker on sixteenth and seventeenth century letters. The finest silks, thus those most apt to fray, were prized for this role and their color foreshadowed the letter’s contents (or might misdirect a nosy bearer by masking the intimate contents of a letter). Heather Wolfe, who is the primary scholar of this practice in early modern England, notes the range of dispositions that might be accounted for in the color of a letter’s silk flossing: “faith, grief, patience, despair, trouble, sadness, purity, hope, prudence, deception, love, amity, jealousy, courage, or, in combination, courtesy, loyalty, and patience in adversity.”  Many different systems for interpreting color were current during this period. Pink was the most common color for letter floss while red (symbolizing strength and power) was used rarely. Yellow might convey respect and lofty sentiment, while blue was for faith, while green could be for joy and love. Wolfe is careful to note that, given the numerous systems for interpreting color current at the time, making absolute equivalencies between color and affect is difficult. Likewise, letter writers of this period would have been constrained by the materials they had access to. Seventeenth-century guides even instruct readers on how to weave different colors of floss together, creating ever more complex patterns. Viewer/makers can explore how the colored silks relate to the descriptions of posy exchange in Loves Garland (one poem is said to be “writ in a Riban of Carnation three penny broad”) or knot and re-knot the silks, participating in the communicative possibilities of the kit.
 
 We also include two letters folded in an intimate style. Letters were generally bound via a ‘tuck and seal’ method. Certain more personal missives were folded in an accordion style and bound with silk floss or “locked” with a paper tab and slit method, as is the case for those in our kit.  Letters were sealed with the sender’s seal both as a method of authentication and security. Our letters are “sealed” with wax, but we have included a set of NFC-embedded stickers to show how an alternative “sealing” method might work. Silks woven through a stab hole in the letter could offer an additional level of security.
@@ -27,6 +32,8 @@ Sources for silk sliver, hankies and other treats.
 
 Dugan, Holly. *The Ephemeral History of Perfume: Scent and Sense in Early Modern England*. Baltimore, Md.: Johns Hopkins University Press, 2011.
 
-King, Katie. “Pastpresents: Playing Cat’s Cradle with Donna Haraway.” Accessed May 22, 2017. http://playingcatscradle.blogspot.com/2010/10/katie-king-womens-studies-university-of.html.
-Smith, Daniel Starza. “Other Locking Mechanisms: Silk Floss, Ribbons, String, Slits and Holes,” 2013. https://www.bessofhardwick.org/background.jsp?id=163.
+King, Katie. “Pastpresents: Playing Cat’s Cradle with Donna Haraway.” Accessed May 22, 2017. <http://playingcatscradle.blogspot.com/2010/10/katie-king-womens-studies-university-of.html>.
+
+Smith, Daniel Starza. “Other Locking Mechanisms: Silk Floss, Ribbons, String, Slits and Holes,” 2013. <https://www.bessofhardwick.org/background.jsp?id=163>.
+
 Wolfe, Heather. “‘Neatly Sealed, with Silk, and Spanish Wax or Otherwise’: The Practice of Letter-Locking with Silk Floss in Early Modern England.” In *In the Prayse of Writing*, edited by S.P. Cerasano and Steven W. May. London: The British Library, 2012.
